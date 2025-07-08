@@ -4,8 +4,8 @@ version = "0.3.0-alpha.1"
 edition = "2021"
 
 [dependencies]
-dioxus = { git = "https://github.com/jprider63/dioxus.git", rev="612d510d2cb194c1da9c216629ba6bb88f74006c" }
+dioxus = { git = "https://github.com/jprider63/dioxus.git", rev="cd3ff6d3644347163c249da8293a76db02044d03" }
 pulldown-cmark = "0.9.3"
 
 [dev-dependencies]
-dioxus = { git = "https://github.com/jprider63/dioxus.git", rev="612d510d2cb194c1da9c216629ba6bb88f74006c", features = ["desktop"] }
+dioxus = { git = "https://github.com/jprider63/dioxus.git", rev="cd3ff6d3644347163c249da8293a76db02044d03", features = ["desktop"] }
